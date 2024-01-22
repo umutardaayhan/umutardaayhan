@@ -1,6 +1,5 @@
 <h2 align="center">Hey!👋 I'm an ordinary programming student. <br>(30%
         Frontend 70% Backend)</h2>
-    ###
     <div align="center">
         <a href="mailto:umutardaayhan1c@gmail.com"><img
                 src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
@@ -12,11 +11,9 @@
                 src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
                 height="35" alt="twitter logo" /></a>
     </div>
-    ###
     <div style="width:720px;max-width:200%;">
         <img src="C:\Users\umuta\Masaüstü\Programlar\giphy.gif" alt="">
     </div>
-    ###
     <br clear="both">
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -46,8 +43,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             height="30" alt="typescript logo" />
     </div>
-    ###
     <br clear="both">
     <img src="https://raw.githubusercontent.com/umutardaayhan/umutardaayhan/output/snake.svg"
         alt="Snake animation" />
-    ###
