@@ -11,9 +11,7 @@
                 src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
                 height="35" alt="twitter logo" /></a>
     </div>
-    <div style="width:720px;max-width:200%;">
         <iframe src="https://giphy.com/embed/BPJmthQ3YRwD6QqcVD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HBOMax-hbomax-the-great-gatsby-2013-thegreatgatsbyonhbomax-BPJmthQ3YRwD6QqcVD">via GIPHY</a></p>
-    </div>
     <br clear="both">
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
