@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **Pluto was discovered by a 23-year-old farmer, a self-educated astronomer who never went to school.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
