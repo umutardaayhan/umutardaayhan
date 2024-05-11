@@ -1,10 +1,11 @@
 <h2 align="center">𝙷𝚎𝚢!👋 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊𝚗 𝚘𝚛𝚍𝚒𝚗𝚊𝚛𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝'𝚜 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. <br>(𝟹𝟶% 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝟽𝟶% 𝙱𝚊𝚌𝚔𝚎𝚗𝚍)</h2>
     <pre>
-    - 🔭 I’m currently working on **Visual Studio**
-    - 🌱 I’m currently learning **C, C++, C#, Game Desing with Unity**
-    - 🤝 I’m looking for help with **C and CSS**
+    - 🔭 I’m currently working on **Visual Studio** **Android Studio**
+    - 🌱 I’m currently learning **C, Java, Python, Android Development**
+    - 🤝 I’m looking for help with **Java and Python**
     - 💬 Ask me about **I've given up, don't ask.**
     - 📫 How to reach me **umutardaayhan1c@gmail.com**
+    - 🔥 My website is **www.stanzavalley.com**
     - ⚡ Fun fact **Pluto was discovered by a 23-year-old farmer, a self-educated astronomer who never went to school.**
       <h3 align="left">    Connect With Me:                               <a href="mailto:umutardaayhan1c@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>  <a href="https://www.linkedin.com/in/umut-arda-ayhan-b20b9b268/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>  <a href="https://twitter.com/UArdaAyhan" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a></h3></pre>
     <br clear="both">
